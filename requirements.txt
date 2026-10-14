@@ -1,5 +1,6 @@
 streamlit
 librosa
+resampy
 numpy
 soundfile
 scipy
